@@ -1,0 +1,7 @@
+# Required packages for running the sample API and its tests
+fastapi
+uvicorn
+pytest
+allure-pytest
+requests
+pydantic
